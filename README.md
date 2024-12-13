@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-# My name is Aidan Engelhard and I'm currently a student at TU Berlin, studying MSc Scientific Computing, as well as the Erasmus Mundus Master's course Computer Simulations for Science and Engineering
+My name is Aidan Engelhard and I'm currently a student at TU Berlin, studying MSc Scientific Computing, as well as the Erasmus Mundus Master's course Computer Simulations for Science and Engineering
 
-# I have experience coding in Python and R, I am also currently learning Rust.
+I have experience coding in Python and R, I am also currently learning Rust.
 
 <!--
 **aidan-engelhard/aidan-engelhard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
